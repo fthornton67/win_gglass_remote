@@ -1,0 +1,2 @@
+C:\_development\hardware\Windows-universal-samples\Samples\BluetoothRfcommChat\cs\RfcommChat.csproj;arm
+C:\_development\hardware\Windows-universal-samples\Samples\BluetoothRfcommChat\cs\tasks\tasks.csproj;arm
